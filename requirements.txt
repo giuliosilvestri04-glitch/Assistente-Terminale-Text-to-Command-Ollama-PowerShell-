@@ -1,0 +1,6 @@
+# Libreria ufficiale per parlare con Ollama da Python.
+# Include già al suo interno "httpx" (per la comunicazione di rete locale).
+ollama
+
+# Libreria per colorare il testo nel terminale di Windows.
+colorama
