@@ -54,7 +54,6 @@ Intelligenza Artificiale che gira interamente **in locale** grazie a
 
 ```powershell
 # 1. Entra nella cartella del progetto
-cd ollama-terminal-assistant
 
 # 2. (Consigliato, non obbligatorio) crea un ambiente virtuale
 python -m venv venv
